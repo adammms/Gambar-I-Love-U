@@ -1,2 +1,2 @@
-# Gambar-I-Love-U
+# I-Love-U
 Menggunakan bahasa pemrograman Python
